@@ -20,9 +20,10 @@ if x%2==0:
 else:
     print("odd")
     
-#Q4
+
 
         
         
         
+
        
