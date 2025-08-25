@@ -1,7 +1,7 @@
 #Q1
 i=1
 while i<=5:
-    print("Mysirg")
+    print("Aditya")
     i+=1
     
     
@@ -32,4 +32,5 @@ i=10
 while i>=1:
     print("Revers num",2*i-1)
     i-=1   
+
     
