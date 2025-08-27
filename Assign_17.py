@@ -2,7 +2,7 @@
 n=int(input("Enter the num"))
 i=1
 while(i<=n):
-    print("Mysirg")
+    print("Aditya")
     i+=1
 
 #Q2
@@ -36,4 +36,5 @@ n=int(input("Enter the num"))
 i=n
 while(i>=1):
     print("Natural num",2*i-1)
+
     i-=1      
