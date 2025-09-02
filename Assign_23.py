@@ -6,16 +6,6 @@ for i in range(n,0,-1) :
 print(f) 
 
 #Q2
-
-
-
-
-
-
-
-
-
-#Q3
 n=input("Enter the number")
 count=0
 for i in n:
@@ -24,4 +14,5 @@ print(count)
     
        
     
+
     
